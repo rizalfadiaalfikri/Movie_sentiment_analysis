@@ -1,2 +1,3 @@
-# Movie_sentiment_analysis
-This project is a sentiment analysis for a movie
+# Movie sentiment analysis
+
+[dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
